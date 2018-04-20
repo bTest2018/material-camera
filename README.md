@@ -1,4 +1,6 @@
-# Material Camera
+# Material Camera (Deprecated)
+
+No longer maintaimed. 
 
 Android's video recording APIs are very difficult to figure out, especially since a lot of manufacturers
 like to mount their camera sensors upside down or sideways. This library is a result of lots of research
